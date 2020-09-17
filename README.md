@@ -9,7 +9,7 @@ Familiarise ourselves with history of Machines and Cellular Automata. Practice J
 
 Example 1
 
-![Raining_canvas]()
+![Raining_canvas](Raining_canvas.png)
 
 ```Javascript
 // This code is based on Graham's @grrrwaaa class example Yellowtails
@@ -79,7 +79,10 @@ canvas.addEventListener("mouseup", function (event) {
 });
 ```
 
+> **Week#2**
 
+*Objectives*
+Continue work with Javascript and mutate more sketches, and/or create an *interesting* (define "interesting") random programs using codepen.io. Start with Literature Review assignment (Step 1).
 
 
 
