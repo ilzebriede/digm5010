@@ -82,6 +82,7 @@ canvas.addEventListener("mouseup", function (event) {
 > **Week#2**
 
 *Objectives*
+
 Continue work with Javascript and mutate more sketches, and/or create an *interesting* (define "interesting") random programs using codepen.io. Start with Literature Review assignment (Step 1).
 
 
