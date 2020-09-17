@@ -9,7 +9,7 @@ Familiarise ourselves with history of Machines and Cellular Automata. Practice J
 
 Example 1
 
-![Raining_canvas](Raining_canvas.png)
+![Raining_canvas](https://drive.google.com/file/d/1XQPm5dueeW89sn3POBIYBFsHmg71xLir/view?usp=sharing)
 
 ```Javascript
 // This code is based on Graham's @grrrwaaa class example Yellowtails
