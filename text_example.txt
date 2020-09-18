@@ -1,7 +1,9 @@
 This is a TEST
 of how to create a text file.
+----------------------------
 
 A DRINKING SONG by W.B.Yeats
+
 Wine Comes in at the mouth
 And love comes in at the eye;
 That's all we shall know for thruth
@@ -9,4 +11,16 @@ Before we grow old and die.
 I lift the glass to my mouth,
 I look at you, and I sigh.
 
+online resource: <https://poets.org/poem/drinking-song_>
+
 > a personal note: similar tone can be read in Omar Khayyam's poetry
+
+THE RUBAIYAT, by Omar Khayyam
+Written 1120 A.C.E.
+
+Ah, make the most of what we yet may spend,
+Before we too into the Dust descend;
+Dust into Dust, and under Dust to lie
+Sans Wine, sans Song, sand Singer, and--sans End!
+
+online resource: <http://classics.mit.edu/Khayyam/rubaiyat.html>
