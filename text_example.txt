@@ -1,5 +1,5 @@
 This is a TEST
-of how to create a text file.
+This branch deals with ideas about viualising poems and turning them into scenes with underlying storyline, which is the poem.
 ----------------------------
 
 A DRINKING SONG by W.B.Yeats
@@ -13,6 +13,11 @@ I look at you, and I sigh.
 
 online resource: <https://poets.org/poem/drinking-song_>
 
+::visual::
+A close up of lips and wineglass approaching towards the mouth.
+It is captured from the side, exposing profile of both, face and wine glass.As the wine is being poured inside the mouth, another parallel scene appears showing the closeup of the eye. The eye is displayed from front view, while lips$wine glass stays in side view.
+
+
 > a personal note: similar tone can be read in Omar Khayyam's poetry
 
 THE RUBAIYAT, by Omar Khayyam
@@ -24,3 +29,6 @@ Dust into Dust, and under Dust to lie
 Sans Wine, sans Song, sand Singer, and--sans End!
 
 online resource: <http://classics.mit.edu/Khayyam/rubaiyat.html>
+
+::visual::
+A scene of dust and wind, dust is similar to sandstorms in the desert. It is a hot day, very sunny; however, the dust shadows the sunlight and is lit very mysteriously. Only the howling of the wind is heard, nothing else. Then a closed of the container with a miniature dancer, singing and swirling starts to emerge from the dust scene. The camera is slowly zooming on the box while keeping the dust in the shot. The dust still blows madly around the little closed-off dreamlike box with a singer inside dancing. A small voice can be heard singing a gipsy folk song. As the camera stops zooming in, the dust slowly takes over and blows inside a little box, covering singer. The music fades into the sound of the wind.
