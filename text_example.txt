@@ -1,0 +1,12 @@
+This is a TEST
+of how to create a text file.
+
+A DRINKING SONG by W.B.Yeats
+Wine Comes in at the mouth
+And love comes in at the eye;
+That's all we shall know for thruth
+Before we grow old and die.
+I lift the glass to my mouth,
+I look at you, and I sigh.
+
+> a personal note: similar tone can be read in Omar Khayyam's poetry
