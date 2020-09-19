@@ -5,7 +5,7 @@ This Journal is a way to document my research directions and practical attempts 
 
 > **Week#1**
 
-*Objectives*
+*Objectives*:
 Familiarise ourselves with history of Machines and Cellular Automata. Practice JavaScript code using different libraries: Canvas,vectors and matrices. Post results in this journal. Maeda approach: Given a point in space over a finite rectangular area, create a parametric drawing that illustrates **repetition**, **variety**, or **rhythm**.
 
 Example 1
@@ -84,8 +84,7 @@ canvas.addEventListener("mouseup", function (event) {
 
 > **Week#2**
 
-*Objectives*
-
+*Objectives*:
 Continue work with Javascript and mutate more sketches, and/or create an *interesting* (define "interesting") random programs using codepen.io. Start with Literature Review assignment (Step 1).
 
 
