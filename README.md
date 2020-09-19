@@ -1,6 +1,7 @@
 ## DIGM 5010 Foundations of Digital Media
 
-This Journal is a collection of documention about of my research directions and practices undertaken in light with **Digm5010 Foundations of Digital Media** course delivered by ***Graham Wakefield***. This online resource will track and archive development of ideas that will feed into my PhD thesis and dissertation artefacts.
+This Journal is a way to document my research directions and practical attempts in **Digm5010 Foundations of Digital Media** course, delivered by ***Graham Wakefield*** at York University, Digital Media department. This online resource will not only serve as a place to gather, trace and archive ideas, store written academic articles and lists of literature. This Journal will directly support and help to establish the main research questions for my PhD research.
+
 
 > **Week#1**
 
