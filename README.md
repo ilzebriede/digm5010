@@ -9,6 +9,8 @@ Familiarise ourselves with history of Machines and Cellular Automata. Practice J
 
 Example 1
 
+![Raining Canvas] (images/Raining_canvas.png)
+
 [Link to my codepen](https://codepen.io/Ka-Vi/pen/OJNwBRw)
 
 ```Javascript
