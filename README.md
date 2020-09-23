@@ -131,11 +131,13 @@ The source of disorganized complexity is the large number of parts in the system
 * Sommerer, Christa, and Laurent Mignonneau. “Modeling the Emergence of Complexity: Complex Systems, the Origin of Life and Interactive On-Line Art.” Leonardo32.2 (2002): 161-169
 * Burroughs S. W., and Brion Gysin. The Third Mind. New York: The Viking Press, 1978.
 
-**Patterns**
+**Patterns - computer generated, ornamental forl art, physiological phenomena**
 
 Pattern/Ornament: ways to abstract the nature and natural phenomena?
+"The phosphenes seem like universal shapes or what the German psychologist Heinrich Kluver in his research on mescaline labelled "form constants"; elementary feautures of the nervous system that we may be hardwired to perceive. lattices, circles, crossed-out squares, undulating lines, curly cues, zigzags, fork-like shapes, matrices of points, and rows of dots." (Salter 2015, p.207)
 
 * Grzegorz Kępisty, “Generative art: reaction-diffusion and Chladni figures.” 2020. PDF from Research Gate
+* Salter Chris, Alien Agency. MIT, 2015.
 
 **Human-Computer, one-another, sketching new languages**
 
