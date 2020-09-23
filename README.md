@@ -116,7 +116,7 @@ Solutions and possible approaches:
 `What would art look like if it would be created taking these   aspects as the main guidelines and inspiration?`
 ---
 
-List of papers and publications pertaining to this topic.
+List of papers and publications.
 
 **Complexity / Emergence**
 
