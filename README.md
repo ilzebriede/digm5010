@@ -87,7 +87,10 @@ canvas.addEventListener("mouseup", function (event) {
 *Objectives*:
 Continue work with Javascript and mutate more sketches, and/or create an *interesting* (define "interesting") random programs using codepen.io. Start with Literature Review assignment (Step 1).
 
+> **Week#3**
+
 **Theme: Complexity**
+
 Keywords: *interactions*, *feedback loops*, *constant change*, *complex relationships*, *dangers of disruption caused by interconnectedness*.  
 
 The bottom line and wake up call is this:
