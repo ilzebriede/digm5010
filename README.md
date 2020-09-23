@@ -87,6 +87,34 @@ canvas.addEventListener("mouseup", function (event) {
 *Objectives*:
 Continue work with Javascript and mutate more sketches, and/or create an *interesting* (define "interesting") random programs using codepen.io. Start with Literature Review assignment (Step 1).
 
+##**Theme: Complexity**
+######Keywords: *interactions*, *feedback loops*, *constant change*, *complex relationships*, *dangers of disruption caused by interconnectedness*.  
+
+The bottom line and wake up call is this:
+**The pandemic results from the same causes as the climate crisis.**
+
+
+
+Main questions to investigate:  
+
+1) How can we live in this globalised multiconnected world while still maintaining natural balance and preserve our environment.
+2) What practices can we develop to foster caring and gentle interconnectedness, embracing differences and welcoming change; that is our new reality this world experiencing right now.
+3) How can we converse in the same language while speaking in different tongues, cherishing unique perspectives and cultural differences. How can we open to diversity without homogenising and erasing minority.
+4) How can we bridge experiences learned in the past with potential future narratives and make the best possible solution for today.
+
+
+---
+Solutions and possible approaches:
+* long term visions
+* use interconnectivity to our advantage
+* listen to marginalised and suppressed voices and learn how to forge better and more robust, and meaningful relationships
+
+
+
+__What would art look like if it would be created taking these   aspects as the main guidelines and inspiration?__  
+
+[List of papers and publications]() pertaining to this topic.
+
 
 
 
