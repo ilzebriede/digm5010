@@ -116,7 +116,35 @@ Solutions and possible approaches:
 
 __What would art look like if it would be created taking these   aspects as the main guidelines and inspiration?__  
 
-[List of papers and publications]() pertaining to this topic.
+List of papers and publications pertaining to this topic.
+
+**Complexity / Emergence**
+
+The source of disorganized complexity is the large number of parts in the system of interest, and the lack of correlation between elements in the system.
+“…acknowledgment of the role of chance and indeterminacy in shaping the living world around us. .. notion that the natural world is a compromise between opposing tendencies toward order and disorder.” (Ulanowicz, p.8)
+
+
+
+* Johnson, Steven. Emergence: The Connected Lives of Ants, Brains, Cities, and Software. Simon and Schuster, 2012.
+* Papastergiadis, Nikos. Complex Entanglements: Art, Globalization and Cultural Difference, London. Rivers Oram,  2003
+* Ulanowicz, Robert E. Ecology: The Ascendant Perspective, Columbia University Press, 1997.
+* Volkart, Yvonne. Does Art Make a Difference? Technologies of the Ecological After the Antropocene. Article in the book Virtualities and Realities, Pasa Smite, Raitis Smits (eds.). Riga: RIXC, 2019. 
+* Sommerer, Christa, and Laurent Mignonneau. “Modeling the Emergence of Complexity: Complex Systems, the Origin of Life and Interactive On-Line Art.” Leonardo32.2 (2002): 161-169
+* Burroughs S. W., and Brion Gysin. The Third Mind. New York: The Viking Press, 1978.
+
+**Patterns**
+
+Pattern/Ornament: ways to abstract the nature and natural phenomena?
+
+* Grzegorz Kępisty, “Generative art: reaction-diffusion and Chladni figures.” 2020. PDF from Research Gate
+
+**Human-Computer, one-another, sketching new languages**
+
+* Ascott, Roy. Telematic Embrace. Visionary theories of art, technology, and consciousness. University of California Press, 2003.
+* Licklider, J. C. R. “Man-Computer Symbiosis.” IRE Transactions on Human Factors in Electronics,
+volume HFE-1 (1960): 4-11
+* Vortex. Visual Aural Textual. One Language. Robert Appleton interview by Majid Abassi. AGI, 2011
+
 
 
 
