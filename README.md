@@ -111,7 +111,7 @@ Solutions and possible approaches:
 * long term visions
 * use interconnectivity to our advantage
 * listen to marginalised and suppressed voices and learn how to forge better and more robust, and meaningful relationships
-* see emergence as global phenomena (pandemic, evolution, creativity)
+* see emergence as global phenomena (pandemic, evolution, embedded response mechanisms)
 
 `What would art look like if it would be created taking these   aspects as the main guidelines and inspiration?`
 ---
