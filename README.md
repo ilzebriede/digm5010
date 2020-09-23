@@ -106,15 +106,14 @@ Main questions to investigate:
 4) How can we bridge experiences learned in the past with potential future narratives and make the best possible solution for today.
 
 
----
-Solutions and possible approaches:
+Solutions and possible approaches:  
+
 * long term visions
 * use interconnectivity to our advantage
 * listen to marginalised and suppressed voices and learn how to forge better and more robust, and meaningful relationships
 
-
-
-__What would art look like if it would be created taking these   aspects as the main guidelines and inspiration?__  
+`What would art look like if it would be created taking these   aspects as the main guidelines and inspiration?`
+---
 
 List of papers and publications pertaining to this topic.
 
