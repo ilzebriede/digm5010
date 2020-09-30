@@ -128,10 +128,10 @@ The source of disorganized complexity is the large number of parts in the system
 * [Johnson, Steven. Emergence: The connected lives of ants, brains, cities, and software. Simon and Schuster, 2002.](https://books.google.ca/books?hl=en&lr=&id=qAtgKyaLH4MC&oi=fnd&pg=PA9&dq=Johnson,+Steven.+Emergence:+The+Connected+Lives+of+Ants,+Brains,+Cities,+and+Software.&ots=-Y1vhQkXWJ&sig=sL9Kug9qZ1NvqKJfhslIUjGlJwg&redir_esc=y#v=onepage&q=Johnson%2C%20Steven.%20Emergence%3A%20The%20Connected%20Lives%20of%20Ants%2C%20Brains%2C%20Cities%2C%20and%20Software.&f=false)
 * Langton, Marcia, and Nikos Papastergiadis. "Complex Entanglements: Art, Globalisation, and Cultural Difference." London, Sydney, and Chicago: Rivers Oram Press, 2003.
 * [Ulanowicz, Robert E. Ecology, the ascendent perspective. Columbia University Press, 1997.](https://books.google.ca/books?hl=en&lr=&id=jSKDw_zAMJUC&oi=fnd&pg=PR11&dq=Ulanowicz,+Robert+E.+Ecology:+The+Ascendant+Perspective,+Columbia+University+Press,+1997.&ots=pEyOK573Sy&sig=vWnIrXmQnrv-zxtL2wvweZV6gtw&redir_esc=y#v=onepage&q=Ulanowicz%2C%20Robert%20E.%20Ecology%3A%20The%20Ascendant%20Perspective%2C%20Columbia%20University%20Press%2C%201997.&f=false)
-* Volkart, Yvonne. Does Art Make a Difference? Technologies of the Ecological After the Antropocene. Article in the book Virtualities and Realities, Pasa Smite, Raitis Smits (eds.). Riga: RIXC, 2019. 
-* Sommerer, Christa, and Laurent Mignonneau. “Modeling the Emergence of Complexity: Complex Systems, the Origin of Life and Interactive On-Line Art.” Leonardo32.2 (2002): 161-169
-* Burroughs S. W., and Brion Gysin. The Third Mind. New York: The Viking Press, 1978.
-* Whitelaw, Mitchell. Metacreation: Arts and Artificial Life. MIT Press, 2006.
+* Volkart Schmidt, Yvonne. "Technologies of the Ecological after the Antropocene." Article in the book Virtualities and Realities, Pasa Smite, Raitis Smits (eds.). Riga: RIXC, 2019. 
+* [Sommerer, Christa, and Laurent Mignonneau. "Modeling the emergence of complexity: Complex systems, the origin of life and interactive on-line art." Leonardo 35.2 (2002): 161-169.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.1177&rep=rep1&type=pdf)
+* [Burroughs, William S., and Brion Gysin. The third mind. Viking Books, 1978.](http://lab404.com/lang/burroughs_gysin_third_mind.pdf)
+* [Whitelaw, Mitchell. Metacreation: art and artificial life. Mit Press, 2006.](https://books.google.ca/books?hl=en&lr=&id=8o8CX6sPTKwC&oi=fnd&pg=PA39&dq=Whitelaw,+Mitchell.+Metacreation:+Arts+and+Artificial+Life.+MIT+Press,+2006.&ots=kgRhMK-sCN&sig=wsGhFzYndaa_FRfHrFnC5N2T_vs&redir_esc=y#v=onepage&q&f=false)
 
 **Patterns - computer generated, ornamental fork art, physiological phenomena**
 
@@ -139,15 +139,14 @@ Pattern/Ornament: ways to abstract the nature and natural phenomena?
 Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape) 
 "The phosphenes seem like universal shapes or what the German psychologist Heinrich Kluver in his research on mescaline labelled "form constants"; elementary feautures of the nervous system that we may be hardwired to perceive. lattices, circles, crossed-out squares, undulating lines, curly cues, zigzags, fork-like shapes, matrices of points, and rows of dots." (Salter 2015, p.207)
 
-* Grzegorz Kępisty, “Generative art: reaction-diffusion and Chladni figures.” 2020. PDF from Research Gate
-* Salter Chris, Alien Agency. MIT press, 2015.
-* Prusinkiewicz P., Aristid Lindernmayer. The Algorithmic Beauty of Plants. Electronic version available online. 2004. (http://algorithmicbotany.org/papers/abop/abop.pdf)
+* [Grzegorz Kępisty, “Generative art: reaction-diffusion and Chladni figures.” 2020. PDF from Research Gate](https://www.researchgate.net/publication/344327257_Generative_art_reaction-diffusion_and_Chladni_figures)
+* [Salter, Chris, and Andrew Pickering. Alien agency: Experimental encounters with art in the making. MIT Press, 2015.](https://books.google.ca/books?hl=en&lr=&id=gTYhBwAAQBAJ&oi=fnd&pg=PR7&dq=Salter+Chris,+Alien+Agency.+MIT+press,+2015.&ots=hoXkSwVlrs&sig=f3DpbfPmRMJxQohsdOn_bvD_PaU&redir_esc=y#v=onepage&q=Salter%20Chris%2C%20Alien%20Agency.%20MIT%20press%2C%202015.&f=false)
+* [Prusinkiewicz, Przemyslaw, and Aristid Lindenmayer. The algorithmic beauty of plants. Springer Science & Business Media, 2012](http://algorithmicbotany.org/papers/abop/abop.pdf)
 
 **Human-Computer-World, one-another-together, sketching new languages**
 
-* Ascott, Roy. Telematic Embrace. Visionary theories of art, technology, and consciousness. University of California Press, 2003.
-* Licklider, J. C. R. “Man-Computer Symbiosis.” IRE Transactions on Human Factors in Electronics,
-volume HFE-1 (1960): 4-11
+* [Ascott, Roy. Telematic embrace: Visionary theories of art, technology, and consciousness. Univ of California Press, 2007.](https://books.google.ca/books?hl=en&lr=&id=zN85LrAoDwUC&oi=fnd&pg=PR9&dq=Ascott,+Roy.+Telematic+Embrace.+Visionary+theories+of+art,+technology,+and+consciousness.&ots=ljD66PsuIw&sig=psIHbZW7qEJ0lahRup_hbqblens&redir_esc=y#v=onepage&q=Ascott%2C%20Roy.%20Telematic%20Embrace.%20Visionary%20theories%20of%20art%2C%20technology%2C%20and%20consciousness.&f=false)
+* [Licklider, Joseph CR. "Man-computer symbiosis." IRE transactions on human factors in electronics 1 (1960): 4-11.] (http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf)
 * Vortex. Visual Aural Textual. One Language. Robert Appleton interview by Majid Abassi. AGI, 2011
 * Maeda, John. How to Speak Machine. Portfolio//Penguin, 2019.
 * [Sommerer, Christa, Laurent Mignonneau, and Florian Weil. "The Art of human to Plant Interaction." The Green Thread: Dialogues with the Vegetal World (2015): 233.](https://books.google.ca/books?hl=en&lr=&id=ELpRCwAAQBAJ&oi=fnd&pg=PA233&dq=talk+to+me+exploring+human-plant+communication&ots=1QWmdsJWGL&sig=1l-tJnOOUUrevSmb6fv3yCka844&redir_esc=y#v=onepage&q&f=false)
