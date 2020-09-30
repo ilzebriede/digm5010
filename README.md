@@ -89,7 +89,8 @@ canvas.addEventListener("mouseup", function (event) {
 //note to myself: try and add different colour variations, so that each canvas layer differs from previous one. Also, try to add sound component</pre></div>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-
+</br>
+</br>
 > **Week#2**
 
 *Objectives*:
@@ -169,4 +170,5 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-
+</br>
+Melting Ice, CA by Kavi. 2020
