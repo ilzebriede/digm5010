@@ -10,7 +10,7 @@ Familiarise ourselves with history of Machines and Cellular Automata. Practice J
 
 Example 1
 
-[Raining Canvas](https://raw.githubusercontent.com/ilzebriede/digm5010/gh-pages/images/Raining_canvas.png)
+![Raining Canvas](https://raw.githubusercontent.com/ilzebriede/digm5010/gh-pages/images/Raining_canvas.png)
 
 [Link to my codepen](https://codepen.io/Ka-Vi/pen/OJNwBRw)
 
