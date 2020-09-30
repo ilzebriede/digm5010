@@ -128,8 +128,7 @@ List of papers and publications.
 
 **Complexity / Emergence**
 
-The source of disorganized complexity is the large number of parts in the system of interest, and the lack of correlation between elements in the system.
-“…acknowledgment of the role of chance and indeterminacy in shaping the living world around us. .. notion that the natural world is a compromise between opposing tendencies toward order and disorder.” (Ulanowicz, p.8)
+>>“…acknowledgment of the role of chance and indeterminacy in shaping the living world around us. .. notion that the natural world is a compromise between               >>opposing tendencies toward order and disorder.” (Ulanowicz, p.8)
 
 
 
@@ -145,7 +144,7 @@ The source of disorganized complexity is the large number of parts in the system
 
 Pattern/Ornament: ways to abstract the nature and natural phenomena?
 Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape) 
-"The phosphenes seem like universal shapes or what the German psychologist Heinrich Kluver in his research on mescaline labelled "form constants"; elementary feautures of the nervous system that we may be hardwired to perceive. lattices, circles, crossed-out squares, undulating lines, curly cues, zigzags, fork-like shapes, matrices of points, and rows of dots." (Salter 2015, p.207)
+>>"The phosphenes seem like universal shapes or what the German psychologist Heinrich Kluver in his research on mescaline labelled "form constants"; elementary >>feautures of the nervous system that we may be hardwired to perceive. lattices, circles, crossed-out squares, undulating lines, curly cues, zigzags, fork-like >>shapes, matrices of points, and rows of dots." (Salter 2015, p.207)
 
 * [Grzegorz Kępisty, “Generative art: reaction-diffusion and Chladni figures.” 2020. PDF from Research Gate](https://www.researchgate.net/publication/344327257_Generative_art_reaction-diffusion_and_Chladni_figures)
 * [Salter, Chris, and Andrew Pickering. Alien agency: Experimental encounters with art in the making. MIT Press, 2015.](https://books.google.ca/books?hl=en&lr=&id=gTYhBwAAQBAJ&oi=fnd&pg=PR7&dq=Salter+Chris,+Alien+Agency.+MIT+press,+2015.&ots=hoXkSwVlrs&sig=f3DpbfPmRMJxQohsdOn_bvD_PaU&redir_esc=y#v=onepage&q=Salter%20Chris%2C%20Alien%20Agency.%20MIT%20press%2C%202015.&f=false)
