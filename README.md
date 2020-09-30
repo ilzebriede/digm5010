@@ -87,10 +87,10 @@ canvas.addEventListener("mouseup", function (event) {
 });
 
 //note to myself: try and add different colour variations, so that each canvas layer differs from previous one. Also, try to add sound component</pre></div>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script><br/>
 
-</br>
-</br>
+<br/>
+
 > **Week#2**
 
 *Objectives*:
@@ -162,13 +162,105 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 * [Sommerer, Christa, Laurent Mignonneau, and Florian Weil. "The Art of human to Plant Interaction." The Green Thread: Dialogues with the Vegetal World (2015): 233.](https://books.google.ca/books?hl=en&lr=&id=ELpRCwAAQBAJ&oi=fnd&pg=PA233&dq=talk+to+me+exploring+human-plant+communication&ots=1QWmdsJWGL&sig=1l-tJnOOUUrevSmb6fv3yCka844&redir_esc=y#v=onepage&q&f=false)
 * Packer, Randall, and Ken Jordan, eds. "Multimedia: From Wagner to Virtual Reality." (2002).
 
+<div class="codepen" data-height="856" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="mdPojzw" data-prefill='{"title":"CA_Melting_Ice","tags":[],"scripts":["https://alicelab.world/digm5950/al2019.js"],"stylesheets":[]}'>
+  <pre data-lang="js">//Iteration mutated from a class example
+//2020 DATT4950/DIGM5950_GameOfLife
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="mdPojzw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CA_Melting_Ice">
-  <span>See the Pen <a href="https://codepen.io/Ka-Vi/pen/mdPojzw">
-  CA_Melting_Ice</a> by ilzebriede (<a href="https://codepen.io/Ka-Vi">@Ka-Vi</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
+// global declarations here
+
+//creates a 20 x 20 grid of cells
+let dim = 500;
+let field = new field2D(dim);
+
+//create another field so that we can store future values. By creating two fields (current=past && future, we achieve something that is called 'double buffer')
+let field2 = new field2D(dim);
+
+field.set(1, 0, 0);
+
+function initialise_field(c, r) {
+  //return random() &lt; 0.5 ? 1 : 0;
+  return c > 1 && r &lt; 5 ? 1 : 0;
+}
+
+function update_field(c, r) {
+  let C = field.get(c, r);
+
+  //define each of the 8 neighbours in all directions
+  let E = field.get(c + 1, r);
+  let W = field.get(c - 1, r);
+  let S = field.get(c, r + 1);
+  let N = field.get(c, r - 1);
+  //let SE = field.get(c + 1, r + 1);
+  //let SW = field.get(c - 1, r + 1);
+  let NE = field.get(c + 1, r - 1);
+  let NW = field.get(c - 1, r - 1);
+
+  //GOL is outer totalistic, which means I need to add all neighbours together
+  //that will return the value of total neighbours alive
+  let total = E + W + S + N + NE + NW;
+  //SE + SW;
+
+  //set up rules:
+  if (C == 1) {
+    //we are alive
+    //if the neighbour total is less than 1, then new state 0
+    if (total &lt; 3) {
+      return 0;
+    } else if (total &lt; 2) {
+      return 0;
+    } else {
+      return 1;
+    }
+  } else {
+    //we are dead
+    //if neighbour is exactly 1, we are dead
+    return total == 1 ? 1 : 0;
+  }
+}
+
+// called at start, and whenever Enter key is pressed:
+function reset() {
+  // (re)initialization here
+  field.set(initialise_field);
+}
+
+// called before rendering each frame
+// dt is the time in seconds since the last update()
+// (the global variable `now` gives the time since start in seconds)
+// updates can be 'paused' using the spacebar
+function update(dt) {
+  // simulation code here
+  field2.set(update_field);
+
+  // let temp = field;
+  // field = field2;
+  // field2 = temp;
+
+  //same above swapping operation can be expressed as such:
+  [field,field2] = [field2,field];
+}
+
+// called to render graphics
+// ctx is  an HTML5 canvas 2D rendering context
+// Escape key will toggle fullscreen
+function draw(ctx) {
+  // rendering code here
+  //field.draw();
+  field.draw();
+  
+}
+
+// called when any mouse (or touch) events happen
+// kind is the event type (down, up, move, etc.)
+// pt is a normalized mouse coordinate
+// id refers to any button pressed/released
+function mouse(kind, pt, id) {}
+
+// called when any key events happen
+// kind is the event type (down, up, etc.)
+// key is the key (or keycode) pressed/released
+function key(kind, key) {}
+</pre></div>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-</br>
+<br/>
 Melting Ice, CA by Kavi. 2020
