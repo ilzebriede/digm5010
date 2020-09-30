@@ -89,7 +89,6 @@ canvas.addEventListener("mouseup", function (event) {
 //note to myself: try and add different colour variations, so that each canvas layer differs from previous one. Also, try to add sound component</pre></div>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script><br/>
 
-<br/>
 
 > **Week#2**
 
@@ -162,7 +161,9 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 * [Sommerer, Christa, Laurent Mignonneau, and Florian Weil. "The Art of human to Plant Interaction." The Green Thread: Dialogues with the Vegetal World (2015): 233.](https://books.google.ca/books?hl=en&lr=&id=ELpRCwAAQBAJ&oi=fnd&pg=PA233&dq=talk+to+me+exploring+human-plant+communication&ots=1QWmdsJWGL&sig=1l-tJnOOUUrevSmb6fv3yCka844&redir_esc=y#v=onepage&q&f=false)
 * Packer, Randall, and Ken Jordan, eds. "Multimedia: From Wagner to Virtual Reality." (2002).
 
-<div class="codepen" data-height="856" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="mdPojzw" data-prefill='{"title":"CA_Melting_Ice","tags":[],"scripts":["https://alicelab.world/digm5950/al2019.js"],"stylesheets":[]}'>
+<br/>
+
+<div class="codepen" data-height="428" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="mdPojzw" data-prefill='{"title":"CA_Melting_Ice","tags":[],"scripts":["https://alicelab.world/digm5950/al2019.js"],"stylesheets":[]}'>
   <pre data-lang="js">//Iteration mutated from a class example
 //2020 DATT4950/DIGM5950_GameOfLife
 
