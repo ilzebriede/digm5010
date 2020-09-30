@@ -100,20 +100,20 @@ The bottom line and wake up call is this:
 
 Main questions to investigate:  
 
-1) How can we live in this globalised multiconnected world while still maintaining natural balance and preserve our environment.
-2) What practices can we develop to foster caring and gentle interconnectedness, embracing differences and welcoming change; that is our new reality this world experiencing right now.
-3) How can we converse in the same language while speaking in different tongues, cherishing unique perspectives and cultural differences. How can we open to diversity without homogenising and erasing minority.
-4) How can we bridge experiences learned in the past with potential future narratives and make the best possible solution for today.
+1) How can we live in this globalised multiconnected world while still maintaining balance with nature and preserve our environment
+2) What practices can we develop to foster caring and gentle interconnectedness, embracing differences and welcoming change; that is our new reality this world experiencing right now
+3) How can we converse in the same language while speaking in different tongues, cherishing unique perspectives and cultural differences. How can we open to diversity without homogenising, suppressing and erasing minority
+4) How can we bridge experiences learned in the past with potential future narratives and make the best possible solution for today and tomorrow
 
 
 Solutions and possible approaches:  
 
 * long term visions
 * use interconnectivity to our advantage
-* listen to marginalised and suppressed voices and learn how to forge better and more robust, and meaningful relationships
+* listen to marginalised and suppressed voices and learn how to forge better and more robust, and meaningful relationships with nature and between each other
 * see emergence as global phenomena (pandemic, evolution, embedded response mechanisms)
 
-`What would art look like if it would be created taking these   aspects as the main guidelines and inspiration?`
+`What would art look like if it would be created taking these aspects as the main guidelines and inspiration?`
 ---
 
 List of papers and publications.
@@ -131,6 +131,7 @@ The source of disorganized complexity is the large number of parts in the system
 * Volkart, Yvonne. Does Art Make a Difference? Technologies of the Ecological After the Antropocene. Article in the book Virtualities and Realities, Pasa Smite, Raitis Smits (eds.). Riga: RIXC, 2019. 
 * Sommerer, Christa, and Laurent Mignonneau. “Modeling the Emergence of Complexity: Complex Systems, the Origin of Life and Interactive On-Line Art.” Leonardo32.2 (2002): 161-169
 * Burroughs S. W., and Brion Gysin. The Third Mind. New York: The Viking Press, 1978.
+* Whitelaw, Mitchell. Metacreation: Arts and Artificial Life. MIT Press, 2006.
 
 **Patterns - computer generated, ornamental fork art, physiological phenomena**
 
@@ -142,12 +143,15 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 * Salter Chris, Alien Agency. MIT press, 2015.
 * Prusinkiewicz P., Aristid Lindernmayer. The Algorithmic Beauty of Plants. Electronic version available online. 2004. (http://algorithmicbotany.org/papers/abop/abop.pdf)
 
-**Human-Computer, one-another, sketching new languages**
+**Human-Computer-World, one-another-together, sketching new languages**
 
 * Ascott, Roy. Telematic Embrace. Visionary theories of art, technology, and consciousness. University of California Press, 2003.
 * Licklider, J. C. R. “Man-Computer Symbiosis.” IRE Transactions on Human Factors in Electronics,
 volume HFE-1 (1960): 4-11
 * Vortex. Visual Aural Textual. One Language. Robert Appleton interview by Majid Abassi. AGI, 2011
+* Maeda, John. How to Speak Machine. Portfolio//Penguin, 2019.
+* [Sommerer, Christa, Laurent Mignonneau, and Florian Weil. "The Art of human to Plant Interaction." The Green Thread: Dialogues with the Vegetal World (2015): 233.] (https://books.google.ca/books?hl=en&lr=&id=ELpRCwAAQBAJ&oi=fnd&pg=PA233&dq=talk+to+me+exploring+human-plant+communication&ots=1QWmdsJWGL&sig=1l-tJnOOUUrevSmb6fv3yCka844&redir_esc=y#v=onepage&q&f=false)
+
 
 
 
