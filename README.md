@@ -16,6 +16,7 @@ Example 1
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ![Raining Canvas](https://raw.githubusercontent.com/ilzebriede/digm5010/gh-pages/images/Raining_canvas.png)
 
 [Link to my codepen](https://codepen.io/Ka-Vi/pen/OJNwBRw)
