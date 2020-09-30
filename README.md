@@ -142,6 +142,7 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 * [Grzegorz Kępisty, “Generative art: reaction-diffusion and Chladni figures.” 2020. PDF from Research Gate](https://www.researchgate.net/publication/344327257_Generative_art_reaction-diffusion_and_Chladni_figures)
 * [Salter, Chris, and Andrew Pickering. Alien agency: Experimental encounters with art in the making. MIT Press, 2015.](https://books.google.ca/books?hl=en&lr=&id=gTYhBwAAQBAJ&oi=fnd&pg=PR7&dq=Salter+Chris,+Alien+Agency.+MIT+press,+2015.&ots=hoXkSwVlrs&sig=f3DpbfPmRMJxQohsdOn_bvD_PaU&redir_esc=y#v=onepage&q=Salter%20Chris%2C%20Alien%20Agency.%20MIT%20press%2C%202015.&f=false)
 * [Prusinkiewicz, Przemyslaw, and Aristid Lindenmayer. The algorithmic beauty of plants. Springer Science & Business Media, 2012](http://algorithmicbotany.org/papers/abop/abop.pdf)
+* [Vuillemot, Romain, and Samuel Huron. "Gl i tch e s as a generative design process." 2017 IEEE VIS Arts Program (VISAP). IEEE, 2017.](https://visap.uic.edu/2016/materials/07_visap-0174-paper_Vuillemot.pdf)
 
 **Human-Computer-World, one-another-together, sketching new languages**
 
