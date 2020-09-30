@@ -108,11 +108,10 @@ The bottom line and wake up call is this:
 
 Main questions to investigate:  
 
-1) How can we live in this globalised multiconnected world while still maintaining balance with nature and preserve our environment
-2) What practices can we develop to foster caring and gentle interconnectedness, embracing differences and welcoming change; that is our new reality this world experiencing right now
-3) How can we converse in the same language while speaking in different tongues, cherishing unique perspectives and cultural differences. How can we open to diversity without homogenising, suppressing and erasing minority
-4) How can we bridge experiences learned in the past with potential future narratives and make the best possible solution for today and tomorrow
-
+1) How can we live in this globalised multiconnected world while still maintaining balance with nature and preserve our environment<br/>
+2) What practices can we develop to foster caring and gentle interconnectedness, embracing differences and welcoming change; that is our new reality this world experiencing right now<br/>
+3) How can we converse in the same language while speaking in different tongues, cherishing unique perspectives and cultural differences. How can we open to diversity without homogenising, suppressing and erasing minority<br/>
+4) How can we bridge experiences learned in the past with potential future narratives and make the best possible solution for today and tomorrow<br/>
 
 Solutions and possible approaches:  
 
