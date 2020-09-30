@@ -10,6 +10,13 @@ Familiarise ourselves with history of Machines and Cellular Automata. Practice J
 
 Example 1
 
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="Ka-Vi" data-slug-hash="OJNwBRw" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="digm5010_week1_canvas-rain">
+  <span>See the Pen <a href="https://codepen.io/Ka-Vi/pen/OJNwBRw">
+  digm5010_week1_canvas-rain</a> by ilzebriede (<a href="https://codepen.io/Ka-Vi">@/<avi::</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ![Raining Canvas](https://raw.githubusercontent.com/ilzebriede/digm5010/gh-pages/images/Raining_canvas.png)
 
 [Link to my codepen](https://codepen.io/Ka-Vi/pen/OJNwBRw)
