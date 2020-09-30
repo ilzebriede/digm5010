@@ -12,75 +12,6 @@ Example 1
 
 ![Raining Canvas](https://raw.githubusercontent.com/ilzebriede/digm5010/gh-pages/images/Raining_canvas.png)
 
-[Link to my codepen](https://codepen.io/Ka-Vi/pen/OJNwBRw)
-
-```Javascript
-// This code is based on Graham's @grrrwaaa class example Yellowtails
-// https://codepen.io/grrrwaaa/pen/rNevzbL?editors=0010
-
-const canvas = document.getElementById("screen");
-const ctx = canvas.getContext("2d");
-const width = canvas.width,
-  height = canvas.height;
-
-let mouse = {
-  x: 0,
-  y: 0,
-  isDown: false
-};
-
-let marks = [];
-let currentMark; // = undefined
-
-function update() {
-  for (let mark of marks) {
-    for (let p of mark) {
-      p.y += Math.random();
-      p.x == Math.random();
-    }
-  }
-}
-
-function draw() {
-  update();
-
-  // clear background
-  for (let mark of marks) {
-    if (mark.length) {
-      ctx.beginPath();
-      ctx.moveTo(mark[0].x, mark[0].y);
-      for (let i = 1; i < mark.length; i++) {
-        ctx.lineTo(mark[i].x, mark[i].y);
-      }
-      ctx.stroke();
-      ctx.lineWidth = 0.1;
-    }
-  }
-
-  window.requestAnimationFrame(draw);
-}
-
-window.requestAnimationFrame(draw);
-
-canvas.addEventListener("mousemove", function (event) {
-  mouse.x = event.clientX;
-  mouse.y = event.clientY;
-
-  if (mouse.isDown && currentMark) {
-    currentMark.push({ x: mouse.x, y: mouse.y });
-  }
-});
-
-canvas.addEventListener("mousedown", function (event) {
-  currentMark = [];
-  marks.push(currentMark);
-  mouse.isDown = true;
-});
-canvas.addEventListener("mouseup", function (event) {
-  currentMark = null;
-  mouse.isDown = false;
-});
-```
 
 > **Week#2**
 
@@ -154,7 +85,7 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 * Packer, Randall, and Ken Jordan, eds. "Multimedia: From Wagner to Virtual Reality." (2002).
 
 
-<div class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="Ka-Vi" data-slug-hash="mdPojzw" data-prefill='{"title":"CA_Melting_Ice","tags":[],"scripts":["https://alicelab.world/digm5950/al2019.js"],"stylesheets":[]}'>
+<div class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="mdPojzw" data-prefill='{"title":"CA_Melting_Ice","tags":[],"scripts":["https://alicelab.world/digm5950/al2019.js"],"stylesheets":[]}'>
   <pre data-lang="js">//Iteration mutated from a class example
 //2020 DATT4950/DIGM5950_GameOfLife
 
@@ -254,6 +185,3 @@ function mouse(kind, pt, id) {}
 function key(kind, key) {}
 </pre></div>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-
-
