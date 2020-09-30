@@ -148,8 +148,9 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 * [Ascott, Roy. Telematic embrace: Visionary theories of art, technology, and consciousness. Univ of California Press, 2007.](https://books.google.ca/books?hl=en&lr=&id=zN85LrAoDwUC&oi=fnd&pg=PR9&dq=Ascott,+Roy.+Telematic+Embrace.+Visionary+theories+of+art,+technology,+and+consciousness.&ots=ljD66PsuIw&sig=psIHbZW7qEJ0lahRup_hbqblens&redir_esc=y#v=onepage&q=Ascott%2C%20Roy.%20Telematic%20Embrace.%20Visionary%20theories%20of%20art%2C%20technology%2C%20and%20consciousness.&f=false)
 * [Licklider, Joseph CR. "Man-computer symbiosis." IRE transactions on human factors in electronics 1 (1960): 4-11.] (http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf)
 * Vortex. Visual Aural Textual. One Language. Robert Appleton interview by Majid Abassi. AGI, 2011
-* Maeda, John. How to Speak Machine. Portfolio//Penguin, 2019.
+* Maeda, John. How to Speak Machine: Laws of Design for a Digital Age. Penguin UK, 2019.
 * [Sommerer, Christa, Laurent Mignonneau, and Florian Weil. "The Art of human to Plant Interaction." The Green Thread: Dialogues with the Vegetal World (2015): 233.](https://books.google.ca/books?hl=en&lr=&id=ELpRCwAAQBAJ&oi=fnd&pg=PA233&dq=talk+to+me+exploring+human-plant+communication&ots=1QWmdsJWGL&sig=1l-tJnOOUUrevSmb6fv3yCka844&redir_esc=y#v=onepage&q&f=false)
+* Packer, Randall, and Ken Jordan, eds. "Multimedia: From Wagner to Virtual Reality." (2002).
 
 
 
