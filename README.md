@@ -126,8 +126,8 @@ The source of disorganized complexity is the large number of parts in the system
 
 
 * [Johnson, Steven. Emergence: The connected lives of ants, brains, cities, and software. Simon and Schuster, 2002.](https://books.google.ca/books?hl=en&lr=&id=qAtgKyaLH4MC&oi=fnd&pg=PA9&dq=Johnson,+Steven.+Emergence:+The+Connected+Lives+of+Ants,+Brains,+Cities,+and+Software.&ots=-Y1vhQkXWJ&sig=sL9Kug9qZ1NvqKJfhslIUjGlJwg&redir_esc=y#v=onepage&q=Johnson%2C%20Steven.%20Emergence%3A%20The%20Connected%20Lives%20of%20Ants%2C%20Brains%2C%20Cities%2C%20and%20Software.&f=false)
-* Langton, Marcia, and Nikos Papastergiadis. "Complex Entanglements: Art, Globalisation, and Cultural Difference." London, Sydney, and Chicago: Rivers Oram Press.[Google Scholar] (2003).
-* Ulanowicz, Robert E. Ecology: The Ascendant Perspective, Columbia University Press, 1997.
+* Langton, Marcia, and Nikos Papastergiadis. "Complex Entanglements: Art, Globalisation, and Cultural Difference." London, Sydney, and Chicago: Rivers Oram Press, 2003.
+* [Ulanowicz, Robert E. Ecology, the ascendent perspective. Columbia University Press, 1997.](https://books.google.ca/books?hl=en&lr=&id=jSKDw_zAMJUC&oi=fnd&pg=PR11&dq=Ulanowicz,+Robert+E.+Ecology:+The+Ascendant+Perspective,+Columbia+University+Press,+1997.&ots=pEyOK573Sy&sig=vWnIrXmQnrv-zxtL2wvweZV6gtw&redir_esc=y#v=onepage&q=Ulanowicz%2C%20Robert%20E.%20Ecology%3A%20The%20Ascendant%20Perspective%2C%20Columbia%20University%20Press%2C%201997.&f=false)
 * Volkart, Yvonne. Does Art Make a Difference? Technologies of the Ecological After the Antropocene. Article in the book Virtualities and Realities, Pasa Smite, Raitis Smits (eds.). Riga: RIXC, 2019. 
 * Sommerer, Christa, and Laurent Mignonneau. “Modeling the Emergence of Complexity: Complex Systems, the Origin of Life and Interactive On-Line Art.” Leonardo32.2 (2002): 161-169
 * Burroughs S. W., and Brion Gysin. The Third Mind. New York: The Viking Press, 1978.
