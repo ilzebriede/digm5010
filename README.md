@@ -264,3 +264,14 @@ function key(kind, key) {}
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 <br/>
 Melting Ice, CA by Kavi. 2020
+
+> **Week#4**
+
+Braintenberg Vehicles
+<br/>
+<p class="codepen" data-height="314" data-theme-id="light" data-default-tab="js,result" data-user="Ka-Vi" data-slug-hash="Yzqbgmy" style="height: 314px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="DIGM 5010 wk4: BraitenbergVehicles#2">
+  <span>See the Pen <a href="https://codepen.io/Ka-Vi/pen/Yzqbgmy">
+  DIGM 5010 wk4: BraitenbergVehicles#2</a> by ilzebriede (<a href="https://codepen.io/Ka-Vi">@Ka-Vi</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
