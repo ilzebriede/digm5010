@@ -275,3 +275,24 @@ Braintenberg Vehicles
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<br/>
+
+> **Week#5**
+Build an Interpreter. Ideas to start with:
+* What else the objects in the scene can do, besides moving across x & y,
+* Think of modifying the instructions, for example, change directions or clone itself
+* We can code a gesture into a code, and code into a texture, and vice-versa
+* Can we have a "higher intelligence" being, like turte with simple movement functions, that affect other turtles movements?
+
+The strategy:
+* Create a Sudo-code (write instructions by hand in human language)
+* Identify players and elements needed for the interaction
+* Make it work in code (code can be long-winded and in raught shape)
+* Try to improve code and make it more efficient
+* Finish by refining code into clean, clutter-free fast code
+
+------
+**My idea**
+Create a pattern building machine code by replicating and adding another layers of same drawing system in new and unexpected ways
+Here is my sketch with some sudo commands:
+
