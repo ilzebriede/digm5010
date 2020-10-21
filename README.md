@@ -295,5 +295,5 @@ The strategy:
 ------
 **My idea**
 Create a pattern building machine code by replicating and adding other layers of same drawing system in new and unexpected ways
-Here is my sketch with some sudo commands:
+Here is my sketch with some sudo commands:</br>
 ![image](./images/sketch_interpreter.jpg)
