@@ -3,7 +3,7 @@
 This Journal is a way to document my research directions and practical attempts in **Digm5010 Foundations of Digital Media** course, delivered by ***Graham Wakefield*** at York University, Digital Media department. This online resource will not only serve as a place to gather, trace and archive ideas, store written academic articles and lists of literature. This Journal will directly support and help to establish the main research questions for my PhD research.
 
 
-> **Week#1**
+### Week#1
 
 *Objectives*:
 Familiarise ourselves with history of Machines and Cellular Automata. Practice JavaScript code using different libraries: Canvas,vectors and matrices. Post results in this journal. Maeda approach: Given a point in space over a finite rectangular area, create a parametric drawing that illustrates **repetition**, **variety**, or **rhythm**.
@@ -90,12 +90,12 @@ canvas.addEventListener("mouseup", function (event) {
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script><br/>
 
 
-> **Week#2**
+### Week#2
 
 *Objectives*:
 Continue work with Javascript and mutate more sketches, and/or create an *interesting* (define "interesting") random programs using codepen.io. Start with Literature Review assignment (Step 1).
 
-> **Week#3**
+### Week#3
 
 **Theme: Complexity**
 
@@ -265,7 +265,7 @@ function key(kind, key) {}
 <br/>
 Melting Ice, CA by Kavi. 2020
 
-> **Week#4**
+### Week#4
 
 Braintenberg Vehicles
 <br/>
@@ -277,7 +277,7 @@ Braintenberg Vehicles
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 <br/>
 
-> **Week#5**
+### Week#5
 </br>
 Build an Interpreter. Ideas to start with:
 * What else the objects in the scene can do, besides moving across x & y,
@@ -296,4 +296,4 @@ The strategy:
 **My idea**
 Create a pattern building machine code by replicating and adding another layers of same drawing system in new and unexpected ways
 Here is my sketch with some sudo commands:
-![image info](./images/sketch_interpreter.jpg)
+![image](./images/sketch_interpreter.jpg)
