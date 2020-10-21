@@ -278,6 +278,7 @@ Braintenberg Vehicles
 <br/>
 
 > **Week#5**
+</br>
 Build an Interpreter. Ideas to start with:
 * What else the objects in the scene can do, besides moving across x & y,
 * Think of modifying the instructions, for example, change directions or clone itself
@@ -295,4 +296,4 @@ The strategy:
 **My idea**
 Create a pattern building machine code by replicating and adding another layers of same drawing system in new and unexpected ways
 Here is my sketch with some sudo commands:
-
+![image info](./images/sketch_interpreter.jpg)
