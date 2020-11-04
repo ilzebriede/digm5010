@@ -326,9 +326,10 @@ Ascott, Roy. Telematic embrace: Visionary theories of art, technology, and consc
 Introducing techniques with TouchDesigner: Instancing, using signal data to drive animation, platform for experimentation and fast prototyping.
 
 Key concepts:
-> Build on analogue techniques in pattern building, and create a digital platform not only to simulate this activity, but also expand the process of pattern creation and modification in real time.
-> Create alternative worlds for pattern behaviours to emerge and come alive. Similalry with Cellular Automata, Agent systems and Evolutionary biomorphs, one can observe the "living" element of computationally created phenomena. The meanings behind traditional Latvian folk symbols are various nature elements, that manifest the raw and untamed forces of our planet and nature. To me, animating these patterns feels a necessity, and unique opportunity as alternative dwelling space, besides being woven into garments and burnt into ceramic pots.
-> Here is a short documentation of my technical steps modelled with TouchDesigner.
+* Build on analogue techniques in pattern building, and create a digital platform not only to simulate this activity, but also expand the process of pattern creation and modification in real time.
+* Create alternative worlds for pattern behaviours to emerge and come alive. Similalry with Cellular Automata, Agent systems and Evolutionary biomorphs, one can observe the "living" element of computationally created phenomena. The meanings behind traditional Latvian folk symbols are various nature elements, that manifest the raw and untamed forces of our planet and nature. To me, animating these patterns feels a necessity, and unique opportunity as alternative dwelling space, besides being woven into garments and burnt into ceramic pots.
+* Here is a short documentation of my technical steps modelled with TouchDesigner.
+
 <iframe src="https://player.vimeo.com/video/475450369" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/475450369">DigitalMediaFoundations_Kavi</a> from <a href="https://vimeo.com/user324972">kavi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
