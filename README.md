@@ -333,3 +333,17 @@ Key concepts:
 <iframe src="https://player.vimeo.com/video/475450369" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/475450369">DigitalMediaFoundations_Kavi</a> from <a href="https://vimeo.com/user324972">kavi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+### Week#8
+
+The draft for the paper
+
+Rough outline: My theme is *complexity and change* (the title of the paper is not ready yet). In systems theory, complexity emerges from interactions within a given system, that results in and is supported by perpetual feedback loops. The feedback loop is a fundamental mediator for change, where one state transforms, converges into another. The ability for a system, whether it is a life form or a software program to become "reliable" and functioning, it needs to be able to adapt and withstand. Change is the inert capability, a "fitness" that measures the potential to evolve and mutate. Evolution is a hard-wired capability of change whilst preserving the main goal - survival. But this evolution is also guided and informed by external conditions, or inputs. In a programming language, the global variables are the starting genome, and functions are the inner workings of the system to form behaviours and responses based on the input and changes of parameters. The main question is: how can we shape our future if given a chance to change the present. What variables are we going to declare and how would we write the functions for humanity's survival on the main stage of planet earth. Can art be the way to anticipate and trial possible scenarios on the background of perpetually unravelling world's actuality as we know it?
+
+Structure:
+
+Declare global variables
+//here I would place the leading characters or essential aspects that will support change
+
+Functions
+//This will be the main body of different condition scenarios the main players will need to participate and formulate into
+//need to work on that!
