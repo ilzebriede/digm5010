@@ -347,3 +347,14 @@ Declare global variables
 Functions
 //This will be the main body of different condition scenarios the main players will need to participate and formulate into
 //need to work on that!
+
+How?
+
+Formula: 
+> Create computerised systems that explores creativity. In my case: pattern building based on traditional latvian folk art.
+> Design this computerised system so that changes of parameters can be introduced in real-time
+> Observe feedback loops and how they play out in my own decision making based on visual output I can see
+
+Why?
+
+
