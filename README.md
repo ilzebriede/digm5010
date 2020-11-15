@@ -162,6 +162,9 @@ Embodied, shared phenomena : Purkinje cell and tree in nature (similar shape)
 * Vortex. Visual Aural Textual. One Language. Robert Appleton interview by Majid Abassi. AGI, 2011.
 <br/>
 
+List of publishing bodies:
+* [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)
+
 <div class="codepen" data-height="428" data-theme-id="light" data-default-tab="result" data-user="Ka-Vi" data-slug-hash="mdPojzw" data-prefill='{"title":"CA_Melting_Ice","tags":[],"scripts":["https://alicelab.world/digm5950/al2019.js"],"stylesheets":[]}'>
   <pre data-lang="js">//Iteration mutated from a class example
 //2020 DATT4950/DIGM5950_GameOfLife
