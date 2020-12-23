@@ -2,7 +2,7 @@ Sommerer, Christa, and Laurent Mignonneau. "Modeling the emergence of complexity
 > Keywords: *Complex systems theory, emergence, A- Life, edge-of-chaos (C.Langton, N.Packard)*
 This academic research paper describes an Internet-based interactive artwork called VERBARIUM (1999) created in order to model and simulate creative emergence based on participator engagement and interactions. The principle discussed for catalising interconnectedness and collective co-creating are phase transitions (Complex systems theory); a balance act and the midpoint between order and disorder, stability and flexibility, intent and meaning. In VERBARIUM an input digital text gets transformed into 3D form, then added and stored with a collective image transforming and evolving overtime. The process is supported by specially designed text-to-form editor that morphs and growcs 8 vertices ring into complex growing structure.
 
-Whitelaw, Mitchell. Metacreation: art and artificial life. Mit Press, 2006.
+Whitelaw, Mitchell. Metacreation: art and artificial life. Mit Press, 2006. Chapter: Emergence (pp.207-237)
 > annotation goes in here
 
 Floreano, Dario, and Claudio Mattiussi. Bio-inspired artificial intelligence: theories, methods, and technologies. MIT press, 2008.
